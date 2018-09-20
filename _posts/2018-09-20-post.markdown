@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Nuevo post!"
+---
+Un ejercicio de JS de ejemplo:
+
+{% highlight javascript %}
+let e
+{% endhighlight %}
+
+Espero que esto funcione!
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
