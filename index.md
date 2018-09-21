@@ -4,3 +4,6 @@
 
 layout: home
 ---
+![Logotipo](/img/logotipo.png)
+
+<h2><center>Una silla de trés patas.</center></h2>
